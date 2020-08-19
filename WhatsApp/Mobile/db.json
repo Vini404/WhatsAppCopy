@@ -1,0 +1,65 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Diego",
+        "email":"Diego@gmail.com"
+        
+      },
+      {
+        "id": 2,
+        "name": "Dani",
+        "email":"Dani@gmail.com"
+      },
+      {
+        "id": 3,
+        "name": "Bartolomeu",
+        "email":"Bartolomeu@gmail.com"
+      },
+      {
+        "id": 4,
+        "name": "Mary",
+        "email":"Mary@gmail.com"
+      },
+      {
+        "id": 5,
+        "name": "Joseph",
+        "email":"Joseph@gmail.com"
+      },
+      {
+        "name": "Bartolomeu",
+        "id": 6,
+        "email":"Bartolomeu@gmail.com"
+      },
+      {
+        "name": "Bartolomeu",
+        "id": 7,
+        "email":"Bartolomeu@gmail.com"
+      },
+      {
+        "name": "Bartolomeu",
+        "id": 8,
+        "email":"Bartolomeu@gmail.com"
+      },
+      {
+        "name": "Bartolomeu",
+        "id": 9,
+        "email":"Bartolomeu@gmail.com"
+      },
+      {
+        "name": "Bartolomeu",
+        "id": 9,
+        "email":"Bartolomeu@gmail.com"
+      },
+      {
+        "name": "Bartolomeu",
+        "id": 9,
+        "email":"Bartolomeu@gmail.com"
+      },
+      {
+        "name": "Bartolomeu",
+        "id": 9,
+        "email":"Bartolomeu@gmail.com"
+      }
+    ]
+  }
